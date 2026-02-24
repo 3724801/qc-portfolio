@@ -40,8 +40,8 @@ export default function Projects() {
       icon: Building2,
       gradient: 'from-orange-400 to-red-500',
       role: 'Quality Control (QC)',
-      testCases: '≈130 Test Cases',
-      bugs: '52 Bugs Reported',
+      testCases: '≈230 Test Cases',
+      bugs: '142 Bugs Reported',
       responsibilities: [
         'Reviewed business and functional requirements for real estate workflows',
         'Executed manual test cases covering core platform features',

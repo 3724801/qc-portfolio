@@ -11,10 +11,18 @@ export default function Certifications() {
       color: 'from-green-400 to-emerald-500',
     },
     {
-      title: 'ISTQB Mobile Application Testing Exam',
+      title: 'ISTQB Mobile Application Testing Certification',
+      organization: 'ISTQB',
+      status: 'completed',
+      date: '2026',
+      icon: CheckCircle,
+      color: 'from-green-400 to-emerald-500',
+    },
+    {
+      title: 'ISTQB Certified Tester – AI Testing (Gen AI)',
       organization: 'ISTQB',
       status: 'scheduled',
-      date: 'February 2026',
+      date: 'June 2026',
       icon: Clock,
       color: 'from-yellow-400 to-orange-500',
     },
@@ -103,11 +111,10 @@ export default function Certifications() {
             <Award size={24} className="text-cyan-400" />
             <p className="text-gray-300">
               <span className="font-semibold text-white">
-                ISTQB Certified
-              </span>{' '}
-              - Foundation Level
+                ISTQB Certified – Foundation & Mobile
+              </span>
               <span className="block text-sm text-gray-400">
-                Preparing for ISTQB Mobile Application Testing Exam (Feb 2026)
+                Certified in ISTQB Foundation & Mobile Testing | Preparing for ISTQB AI Testing (Gen AI) – June 2026
               </span>
             </p>
           </div>

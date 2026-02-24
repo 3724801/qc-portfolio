@@ -144,7 +144,7 @@ export default function Contact() {
       <footer className="mt-20 pt-8 border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-gray-400">
-            2025 Mahytab Adel. Designed with passion for quality assurance.
+            2025 Mahytab Adel. Designed with passion for quality Control.
           </p>
         </div>
       </footer>
