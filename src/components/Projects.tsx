@@ -45,7 +45,7 @@ export default function Projects() {
       responsibilities: [
         'Reviewed business and functional requirements for real estate workflows',
         'Executed manual test cases covering core platform features',
-        'Reported 52 defects including functional, validation, and UI issues',
+        'Reported 142 defects including functional, validation, and UI issues',
         'Verified fixes and ensured system compliance with quality standards',
         'Logged and tracked defects using TFS (Azure DevOps)',
       ],
