@@ -14,7 +14,7 @@ export default function About() {
           <div className="space-y-6">
             <p className="text-lg text-gray-300 leading-relaxed">
               I'm a detail-oriented Junior Software Tester with a strong background in Computer Science
-              and practical experience in software testing and Quality Assurance processes.
+              and practical experience in software testing and Quality control processes.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed">
               My journey in software testing began during my internship at Alstom Egypt, where I worked
