@@ -30,7 +30,7 @@ export default function Experience() {
     {
       title: 'Web & Python Instructor',
       company: 'Programmers Elite School (PES)',
-      period: 'Feb 2025 – Present',
+      period: 'Feb 2025 – September 2025',
       description: [
         'Teaching HTML, CSS, JavaScript, and Python to 10+ students',
         'Designed interactive learning modules using hands-on projects',
