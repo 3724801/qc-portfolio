@@ -3,10 +3,11 @@ import { Briefcase, Calendar } from 'lucide-react';
 export default function Experience() {
   const experiences = [
     {
-      title: 'Quality Control (QC) Intern',
+      title: 'Quality Control (QC) Engineer (Full-time)',
       company: 'Asgatech',
       period: 'Nov 2025 – Present',
       description: [
+        'Working full-time as a QC Engineer, responsible for end-to-end quality assurance of production and staging releases',
         'Performed quality control activities to ensure software products meet defined quality standards',
         'Executed manual test cases and documented defects with clear, structured reports',
         'Reviewed business and functional requirements to verify compliance with specifications',
@@ -76,6 +77,7 @@ export default function Experience() {
                       <h3 className="text-2xl font-bold mb-1">{exp.title}</h3>
                       <p className="text-cyan-400 text-lg">{exp.company}</p>
                     </div>
+
                     <div className="flex items-center gap-2 text-gray-400 mt-2 md:mt-0">
                       <Calendar size={18} />
                       <span>{exp.period}</span>

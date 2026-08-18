@@ -27,7 +27,7 @@ export default function Hero() {
 
           {/* Role */}
           <p className="text-2xl sm:text-3xl text-gray-300 mb-4 animate-slide-up-delay-1">
-            QA Engineer | Software Tester | Business Analyst
+            QA Engineer | Software Tester 
           </p>
 
           {/* Description */}

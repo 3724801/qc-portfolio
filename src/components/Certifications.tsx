@@ -22,7 +22,7 @@ export default function Certifications() {
       title: 'ISTQB Certified Tester – AI Testing (Gen AI)',
       organization: 'ISTQB',
       status: 'scheduled',
-      date: 'June 2026',
+      date: 'October 2026',
       icon: Clock,
       color: 'from-yellow-400 to-orange-500',
     },
@@ -114,7 +114,7 @@ export default function Certifications() {
                 ISTQB Certified – Foundation & Mobile
               </span>
               <span className="block text-sm text-gray-400">
-                Certified in ISTQB Foundation & Mobile Testing | Preparing for ISTQB AI Testing (Gen AI) – June 2026
+                Certified in ISTQB Foundation & Mobile Testing | Preparing for ISTQB AI Testing (Gen AI) – October 2026
               </span>
             </p>
           </div>

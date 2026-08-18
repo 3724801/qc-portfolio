@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/qc-portfolio/',
+  base: '/qc-portfolio/', // 👈 أهم سطر في حياتك دلوقتي
 })
